@@ -26,12 +26,12 @@ interests:
 education:
   courses:
   - course: PhD in Engineering Technology
-    institution: KU Leuven
+    institution: Katholieke Universiteit Leuven
     year: Expected 2025
   - course: MPhil in Computer Information Engineering
     institution: The Chinese University of Hong Kong, Shenzhen
     year: 2021
-  - course: BSc in Electronic Information Engineering
+  - course: BEng in Electronic Information Engineering
     institution: The Chinese University of Hong Kong, Shenzhen
     year: 2019
 
@@ -45,13 +45,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti 
+Huhu is a cute rabbit.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
